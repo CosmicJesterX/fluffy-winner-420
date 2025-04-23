@@ -4,4 +4,10 @@
 ############################################################################
 
 # Default owners, unless a later match takes precedence.
-* @actions/actions-oss-maintainers
+
+ @actions/actions-oss-maintainers 
+
+ @CosmicJesterX
+
+# Specific rule for a directory or file
+/docs/
